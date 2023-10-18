@@ -1,4 +1,4 @@
-## ![Badge for shiny.plate](inst/figures/shiny_plate_badge.png){width=100}
+## ![Badge for shiny.plate](inst/figures/shiny_plate_badge_250.png)
 
 ## Shiny.plate
 
