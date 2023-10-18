@@ -51,7 +51,7 @@ new_shiny_plate = function(
 
   if(user_switch_proj %in% c('y','Y')){
     cat(paste0("Switching to new shiny template ",proj_name))
-  rstudioapi::openProject(path = filepath)
+  rstudioapi::openProject(path = '.')
   } else {
     cat(paste0("Finished creating new shiny template ",proj_name,"!"))
   }
